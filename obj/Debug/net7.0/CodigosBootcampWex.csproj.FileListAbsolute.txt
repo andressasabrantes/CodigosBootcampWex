@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Área de Trabalho\CodigosBootcampWex\bin\Debug\net7.0\CodigosBootcampWex.exe
+C:\Users\andre\OneDrive\Área de Trabalho\CodigosBootcampWex\bin\Debug\net7.0\CodigosBootcampWex.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\CodigosBootcampWex\bin\Debug\net7.0\CodigosBootcampWex.runtimeconfig.json
+C:\Users\andre\OneDrive\Área de Trabalho\CodigosBootcampWex\bin\Debug\net7.0\CodigosBootcampWex.dll
+C:\Users\andre\OneDrive\Área de Trabalho\CodigosBootcampWex\bin\Debug\net7.0\CodigosBootcampWex.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\CodigosBootcampWex\obj\Debug\net7.0\CodigosBootcampWex.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\CodigosBootcampWex\obj\Debug\net7.0\CodigosBootcampWex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Área de Trabalho\CodigosBootcampWex\obj\Debug\net7.0\CodigosBootcampWex.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\CodigosBootcampWex\obj\Debug\net7.0\CodigosBootcampWex.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\CodigosBootcampWex\obj\Debug\net7.0\CodigosBootcampWex.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\CodigosBootcampWex\obj\Debug\net7.0\CodigosBootcampWex.dll
+C:\Users\andre\OneDrive\Área de Trabalho\CodigosBootcampWex\obj\Debug\net7.0\refint\CodigosBootcampWex.dll
+C:\Users\andre\OneDrive\Área de Trabalho\CodigosBootcampWex\obj\Debug\net7.0\CodigosBootcampWex.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\CodigosBootcampWex\obj\Debug\net7.0\CodigosBootcampWex.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Área de Trabalho\CodigosBootcampWex\obj\Debug\net7.0\ref\CodigosBootcampWex.dll
