@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xfdgkRJ0s04KgK4s+R1E2LW3PPwxCIPCVBEgG+yEDL1QYofvsW/ZU/4ileWMDiXjUiIDc2Rf2x67ucoJfWPEOA==",
+  "dgSpecHash": "0y3TEOK4k1BbEIYe+SMxRkgC9oK4bBfxPihSWW7/EELFwsMeW0R/4lM2AXaL46/uj1x5onZBSweLHeu7u4scQQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\CodigosBootcampWex\\CodigosBootcampWex.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
